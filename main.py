@@ -1,3 +1,3 @@
-print ("Hello world")
+print ("Hello, my name is Nastya")
 git commit
 git push
